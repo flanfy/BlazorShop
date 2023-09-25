@@ -819,6 +819,7 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Shared\ProductList.razor.rz.scp.css
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\bundle\BlazorShop.Client.styles.css
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\projectbundle\BlazorShop.Client.bundle.scp.css
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\BlazorShop.Client.csproj.CopyComplete
