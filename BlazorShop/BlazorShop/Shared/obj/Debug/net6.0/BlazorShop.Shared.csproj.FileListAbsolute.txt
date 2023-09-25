@@ -1,0 +1,12 @@
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\bin\Debug\net6.0\BlazorShop.Shared.deps.json
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\bin\Debug\net6.0\BlazorShop.Shared.dll
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\bin\Debug\net6.0\BlazorShop.Shared.pdb
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\obj\Debug\net6.0\BlazorShop.Shared.csproj.AssemblyReference.cache
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\obj\Debug\net6.0\BlazorShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\obj\Debug\net6.0\BlazorShop.Shared.AssemblyInfoInputs.cache
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\obj\Debug\net6.0\BlazorShop.Shared.AssemblyInfo.cs
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\obj\Debug\net6.0\BlazorShop.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\obj\Debug\net6.0\BlazorShop.Shared.dll
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\obj\Debug\net6.0\refint\BlazorShop.Shared.dll
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\obj\Debug\net6.0\BlazorShop.Shared.pdb
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Shared\obj\Debug\net6.0\ref\BlazorShop.Shared.dll
