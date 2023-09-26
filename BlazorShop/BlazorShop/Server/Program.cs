@@ -1,8 +1,12 @@
 global using BlazorShop.Shared;
+global using BlazorShop.Client.Shared;
 global using Microsoft.EntityFrameworkCore;
 global using BlazorShop.Server.Data;
+global using BlazorShop.Server.Services.ProductService;
+global using BlazorShop.Server.Services.CategoryService;
 using Microsoft.AspNetCore.Connections;
 using Microsoft.AspNetCore.ResponseCompression;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +21,9 @@ builder.Services.AddRazorPages();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<IProductService, ProductService>(); //when IPS injected, use PS as implementation, can change class if want to make changes
+builder.Services.AddScoped<ICategoryService, CategoryService>();
 
 var app = builder.Build();
 
