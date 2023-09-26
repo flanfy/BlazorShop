@@ -1,10 +1,17 @@
 global using BlazorShop.Shared;
+global using Microsoft.EntityFrameworkCore;
+global using BlazorShop.Server.Data;
+using Microsoft.AspNetCore.Connections;
 using Microsoft.AspNetCore.ResponseCompression;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.AddDbContext<DataContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
