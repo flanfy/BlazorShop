@@ -4,6 +4,7 @@ global using BlazorShop.Client.Services.ProductService;
 global using BlazorShop.Client.Services.CategoryService;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using BlazorShop.Client;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");

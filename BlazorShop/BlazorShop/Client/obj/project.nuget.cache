@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JcaFVrVWJDngPkS+JSSEQslCEjezVAUs8eIXvz5hz7JYGrRiyctnDWRhL2ql4p6B4c+iDtC/qDy7pS9vVjLgcA==",
+  "dgSpecHash": "Zk8mt3bI6ArE+0KQ2b+E4LZ/CxI2HcHOcX60bXTzwJ4KUskcbEAavSBgs77kRVopIPAKBEoV8j29vLwBsfbcdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj",
+  "projectFilePath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\microsoft.aspnetcore.components.6.0.10.nupkg.sha512",

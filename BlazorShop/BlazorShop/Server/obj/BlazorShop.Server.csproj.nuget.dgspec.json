@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj": {}
+    "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj": {
+    "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj",
         "projectName": "BlazorShop.Client",
-        "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj",
+        "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj",
         "packagesPath": "C:\\Users\\Phillip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\",
+        "outputPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
-                "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj"
+              "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
+                "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj": {
+    "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
         "projectName": "BlazorShop.Server",
-        "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
+        "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
         "packagesPath": "C:\\Users\\Phillip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\obj\\",
+        "outputPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,11 +119,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj": {
-                "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj"
+              "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj": {
+                "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj"
               },
-              "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
-                "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj"
+              "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
+                "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj"
               }
             }
           }
@@ -184,14 +184,14 @@
         }
       }
     },
-    "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
+    "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj",
         "projectName": "BlazorShop.Shared",
-        "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj",
+        "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj",
         "packagesPath": "C:\\Users\\Phillip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

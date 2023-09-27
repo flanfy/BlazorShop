@@ -177,8 +177,8 @@ main[b-61amlkxaen] {
 }
 /* /Shared/ProductList.razor.rz.scp.css */
 media-img[b-h2ti5qftxr] {
-    max-height: 200px;
-    max-width: 200px;
+    max-height: 100px;
+    max-width: 100px;
     border-radius: 6px;
     margin-bottom: 10px;
     transition: transform .2s;
@@ -193,7 +193,7 @@ media-img-wrapper[b-h2ti5qftxr] {
     text-align: center;
 }
 
-@media (max-wdith: 1023.98px) {
+@media (max-width: 1023.98px) {
     .media[b-h2ti5qftxr] {
         flex-direction: column;
     }

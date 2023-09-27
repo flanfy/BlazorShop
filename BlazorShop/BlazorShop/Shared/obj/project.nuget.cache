@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ggJqK/avezmiK2D3lOhN9dzv8WJtkAm8s1jgDbKO5fv+lkArgLj87m8JzFaFhdozYg52KFy4yi5ASS7hSK1u0g==",
+  "dgSpecHash": "N6E7YfXYUC3Tufqo3G9C33wo0s7a36PDDeP61rQrHocc8MBD0bPrcFVKcJNAsc08mHLiFfBz+7Big0RYFlSFpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShopOld\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

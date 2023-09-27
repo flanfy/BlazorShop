@@ -2,7 +2,7 @@
 
 namespace BlazorShop.Client.Services.CategoryService
 {
-    public class CategoryService : ICatergoryService
+    public class CategoryService : ICategoryService
     {
         private readonly HttpClient _http;
 
@@ -11,7 +11,7 @@ namespace BlazorShop.Client.Services.CategoryService
             _http = http;
         }
 
-        public List<Category> Categories { get; set; }
+        public List<Category> Categories { get; set; } = new List<Category>();
 
         public async Task GetCategories()
         {
