@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Phillip/Documents/projects/blazor/BlazorShop/BlazorShop/BlazorShop/Client/Shared/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlYXJjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Phillip/Documents/projects/blazor/BlazorShop/BlazorShop/BlazorShop/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +48,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lzryr83p8h
 
+[C:/Users/Phillip/Documents/projects/blazor/BlazorShop/BlazorShop/BlazorShop/Client/Shared/FeaturedProducts.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZlYXR1cmVkUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-je2hgtf96h
+
+[C:/Users/Phillip/Documents/projects/blazor/BlazorShop/BlazorShop/BlazorShop/Client/Shared/HomeButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-alo7fu2c2v
+
 [C:/Users/Phillip/Documents/projects/blazor/BlazorShop/BlazorShop/BlazorShop/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-61amlkxaen
@@ -55,3 +67,11 @@ build_metadata.AdditionalFiles.CssScope = b-fdt4izox2h
 [C:/Users/Phillip/Documents/projects/blazor/BlazorShop/BlazorShop/BlazorShop/Client/Shared/ProductList.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1Y3RMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-h2ti5qftxr
+
+[C:/Users/Phillip/Documents/projects/blazor/BlazorShop/BlazorShop/BlazorShop/Client/Shared/ShopLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNob3BMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-hfgccrg5d1
+
+[C:/Users/Phillip/Documents/projects/blazor/BlazorShop/BlazorShop/BlazorShop/Client/Shared/ShopNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNob3BOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-pk4tii8h7c

@@ -56,8 +56,9 @@ namespace BlazorShop.Server.Data
                     Id = 1,
                     CategoryId = 3,
                     Title = "Elden Ring",
-                    Description = "Elden Ring[a] is a 2022 action role-playing game developed by FromSoftware. It was directed by Hidetaka Miyazaki with worldbuilding provided by fantasy writer George R. R. Martin. It was released for PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S on February 25 by FromSoftware in Japan and Bandai Namco Entertainment internationally. Players control a customizable player character who is on a quest to repair the Elden Ring and become the new Elden Lord.",
-                    ImageUrl = "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg"
+                    Description = "Elden Ring is a 2022 action role-playing game developed by FromSoftware. It was directed by Hidetaka Miyazaki with worldbuilding provided by fantasy writer George R. R. Martin. It was released for PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X/S on February 25 by FromSoftware in Japan and Bandai Namco Entertainment internationally. Players control a customizable player character who is on a quest to repair the Elden Ring and become the new Elden Lord.",
+                    ImageUrl = "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg",
+                    Featured = true
                 },
                 new Product
                 {
@@ -113,7 +114,8 @@ namespace BlazorShop.Server.Data
                     CategoryId = 2,
                     Title = "The Raid 2",
                     Description = "The Raid 2 (Indonesian: The Raid 2: Berandal, lit. 'thug'; Japanese: ザ・レイド Gokudo, lit. 'gangster'), also known as The Raid: Retaliation, is a 2014 Indonesian action thriller film written, directed and edited by the Welsh filmmaker Gareth Evans.[6][7][8] It is the sequel to the 2011 film The Raid and stars Iko Uwais, Arifin Putra, Oka Antara, Tio Pakusadewo, Alex Abbad, Julie Estelle, Ryuhei Matsuda, Kenichi Endō, and Kazuki Kitamura. In the film, Rama is sent undercover to expose the corrupt police officials colluding with the crime families of Jakarta's criminal underworld.",
-                    ImageUrl = "https://upload.wikimedia.org/wikipedia/en/c/c3/The_Raid_2_Berandal_teaser_banner.jpeg"
+                    ImageUrl = "https://upload.wikimedia.org/wikipedia/en/c/c3/The_Raid_2_Berandal_teaser_banner.jpeg",
+                    Featured = true
                 },
                 new Product
                 {
@@ -127,9 +129,10 @@ namespace BlazorShop.Server.Data
                 {
                     Id = 10,
                     CategoryId = 1,
-                    Title = "Necronomicon: The Weird Tales of H.P. Lovecraft",
-                    Description = "This handsome leatherbound tome collects together the very best of Lovecraft's tales of terror, including the complete Cthulhu Mythos cycle, just the way they were originally published. It will introduce a whole new generation of readers to Lovecraft's fiction, as well as being a must-buy for those fans who want all his work in a single, definitive, highly attractive volume.",
-                    ImageUrl = "https://m.media-amazon.com/images/I/61ccDaC9jTL._SL1418_.jpg"
+                    Title = "Uzumaki",
+                    Description = "Uzumaki (うずまき, lit. \"Spiral\") is a Japanese horror manga series written and illustrated by Junji Ito. Appearing as a serial in the weekly seinen manga magazine Big Comic Spirits from 1998 to 1999, the chapters were compiled into three bound volumes by Shogakukan and published from August 1998 to September 1999. In March 2000, Shogakukan released an omnibus edition, followed by a second omnibus version in August 2010. In North America, Viz Media serialized an English-language translation of the series in its monthly magazine Pulp from February 2001 to August 2002. Viz Media then published the volumes from October 2001 to October 2002, with a re-release from October 2007 to February 2008, and published a hardcover omnibus edition in October 2013.",
+                    ImageUrl = "https://upload.wikimedia.org/wikipedia/en/8/88/Uzumaki.jpg",
+                    Featured = true
                 },
                 new Product
                 {
@@ -147,7 +150,7 @@ namespace BlazorShop.Server.Data
                     Description = "The Three-Body Problem (Chinese: 三体; lit. 'Three-Body') is a science fiction novel written by the Chinese writer Liu Cixin. It is the first novel of the Remembrance of Earth's Past (Chinese: 地球往事) trilogy, but the whole series is often referred to as Three-Body. The trilogy's second and third novels are The Dark Forest and Death's End, respectively. The series portrays a fictional past, present and future where, in the first book, Earth encounters an alien civilization in a nearby star system that consists of three sun-like stars orbiting each other in an unstable system, an example of the three-body problem in orbital mechanics, giving the book its title.",
                     ImageUrl = "https://upload.wikimedia.org/wikipedia/en/0/0f/Threebody.jpg"
                 }
-            );
+            );;
 
             modelBuilder.Entity<ProductVariant>().HasData(
                 new ProductVariant
