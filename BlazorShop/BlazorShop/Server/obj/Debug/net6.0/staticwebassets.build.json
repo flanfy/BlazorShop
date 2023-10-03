@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gZHMaBA7w+LpHvN8den33vyXfDooOUB5sN61ILIGcoE=",
+  "Hash": "g5p4/DGxdLlzxjawaCH8CX8y+w3oqfo1v7OBAeJ5ARk=",
   "Source": "BlazorShop.Server",
   "BasePath": "_content/BlazorShop.Server",
   "Mode": "Default",
@@ -61,6 +61,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.10\\build\\net6.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\blazored.localstorage\\4.4.0\\lib\\net6.0\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorShop.Client.dll",
@@ -5807,6 +5824,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Loader.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\PToMCLhp.gz",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\pUDx8huA.gz",

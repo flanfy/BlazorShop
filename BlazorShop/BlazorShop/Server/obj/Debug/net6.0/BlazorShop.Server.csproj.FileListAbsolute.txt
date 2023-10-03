@@ -126,6 +126,7 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Serv
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Server\bin\Debug\net6.0\BlazorShop.Server.pdb
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Server\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Server\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Server\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll

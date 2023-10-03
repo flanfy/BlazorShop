@@ -1,3 +1,45 @@
+/* /Pages/Cart.razor.rz.scp.css */
+.container[b-61e79hmj8k] {
+    display: flex;
+    padding: 6px;
+}
+
+.image-wrapper[b-61e79hmj8k] {
+    width: 150px;
+    text-align: center;
+}
+
+.image[b-61e79hmj8k] {
+    max-height: 150px;
+    max-width: 150px;
+    padding: 6px;
+}
+
+.name[b-61e79hmj8k] {
+    flex-grow: 1;
+    padding: 6px;
+}
+
+.cart-product-price[b-61e79hmj8k] {
+    font-weight: 600;
+    text-align: right;
+}
+
+.btn-delete[b-61e79hmj8k] {
+    background: none;
+    border: none;
+    padding: 0px;
+    color: red;
+    font-size: 12px;
+}
+
+    .btn-delete:hover[b-61e79hmj8k] {
+        text-decoration: underline;
+    }
+
+.input-quantity[b-61e79hmj8k] {
+    width: 70px;
+}
 /* /Pages/ProductDetails.razor.rz.scp.css */
 .media-img[b-lzryr83p8h] {
     max-height: 500px;

@@ -828,12 +828,9 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShopOld\BlazorShop\BlazorShop\C
 C:\Users\Phillip\Documents\projects\blazor\BlazorShopOld\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\refint\BlazorShop.Client.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShopOld\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\BlazorShop.Client.pdb
 C:\Users\Phillip\Documents\projects\blazor\BlazorShopOld\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\ref\BlazorShop.Client.dll
-C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
-C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
-C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
-C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorShop.Client.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorShop.Client.pdb
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorShop.Shared.dll
@@ -981,6 +978,7 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
@@ -1010,6 +1008,7 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
@@ -1017,8 +1016,10 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
@@ -1168,6 +1169,7 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
@@ -1234,6 +1236,7 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\BlazorShop.Client.staticwebassets.runtime.json
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\BlazorShop.Client.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\BlazorShop.Client.pdb
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -1438,6 +1441,7 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\BlazorShop.Client.AssemblyInfo.cs
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\BlazorShop.Client.csproj.CoreCompileInputs.cache
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\BlazorShop.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\PToMCLhp.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\CeuRTjka.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\8EzM16kO.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\RkjDA+iY.gz
@@ -1662,3 +1666,4 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\refint\BlazorShop.Client.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\BlazorShop.Client.pdb
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\ref\BlazorShop.Client.dll
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Pages\Cart.razor.rz.scp.css

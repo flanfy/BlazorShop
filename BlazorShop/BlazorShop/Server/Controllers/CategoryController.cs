@@ -1,5 +1,4 @@
-﻿using BlazorShop.Client.Shared;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlazorShop.Server.Controllers

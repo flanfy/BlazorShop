@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/hYBrW/UGfp0fuPRyvjHL/B0PfXh3y+oELuONJCp/3kB4mToqE9kSmQTLKp+tsNwRYtsTrCOnXq8uXe+ETCt5g==",
+  "dgSpecHash": "mXuPOC21MBY3K71EVhKDLMoizop2VvrDXsmLnpa7LSBn2puxl1Ldcm8FD9Nwz3sHvPPoXR5IfQWrl6cPufmWFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phillip\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\Phillip\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\microsoft.aspnetcore.components.6.0.10.nupkg.sha512",
