@@ -41,7 +41,7 @@ namespace BlazorShop.Client.Services.ProductService
             {
                 Message = "No products found.";
             }
-            ProductsChanged.Invoke();
+            ProductsChanged?.Invoke();
         }
 
         public async Task<List<string>> GetProductSearchSuggestions(string searchText)

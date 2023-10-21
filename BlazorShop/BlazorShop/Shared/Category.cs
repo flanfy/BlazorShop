@@ -1,4 +1,4 @@
-﻿namespace BlazorShop.Client.Shared
+﻿namespace BlazorShop.Shared
 {
     public class Category
     {

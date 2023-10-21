@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vqKBwfTPkXBeleQWC5S0+RbsZfuPo6LpF0sbU4n5LWA=",
+  "Hash": "2yTNpTGL4yR+ZVFGWDOt0sCrLEbyoyhc/2VIxWagmnw=",
   "Source": "BlazorShop.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -269,7 +269,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.22\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.22\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -286,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.22\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -354,7 +371,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.22\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.WebUtilities.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -558,7 +592,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -644,6 +678,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.10\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\lib\\netstandard2.0\\Microsoft.Net.Http.Headers.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -3706,6 +3757,23 @@
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\1RE+9ih7.gz",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\1Rhu7Kp+.gz",
       "SourceId": "BlazorShop.Client",
       "SourceType": "Computed",
@@ -3842,21 +3910,21 @@
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.Vectors.dll"
     },
     {
-      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\3eRgk0Wy.gz",
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\3buTxF8K.gz",
       "SourceId": "BlazorShop.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\3hNufzSN.gz",
@@ -4148,6 +4216,23 @@
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
     },
     {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\78kYC8UO.gz",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\7z7W8kDm.gz",
       "SourceId": "BlazorShop.Client",
       "SourceType": "Computed",
@@ -4197,23 +4282,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\8EzM16kO.gz",
-      "SourceId": "BlazorShop.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\8osrOyfw.gz",
@@ -4488,6 +4556,23 @@
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\bDvKF9e4.gz",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll"
+    },
+    {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\BgRBvXET.gz",
       "SourceId": "BlazorShop.Client",
       "SourceType": "Computed",
@@ -4571,23 +4656,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\CeuRTjka.gz",
-      "SourceId": "BlazorShop.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\CjzXf0IV.gz",
@@ -4828,6 +4896,23 @@
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebProxy.dll"
     },
     {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\fCYeIuid.gz",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll"
+    },
+    {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\fJA69UVR.gz",
       "SourceId": "BlazorShop.Client",
       "SourceType": "Computed",
@@ -4911,23 +4996,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.ReaderWriter.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\FzeB8Oi8.gz",
-      "SourceId": "BlazorShop.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\gKvFy5aw.gz",
@@ -5100,6 +5168,23 @@
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Claims.dll"
     },
     {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\IgR+x9eO.gz",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\iQjuiCxT.gz",
       "SourceId": "BlazorShop.Client",
       "SourceType": "Computed",
@@ -5132,6 +5217,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\IvmmKFas.gz",
+      "SourceId": "BlazorShop.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\obj\\Debug\\net6.0\\build-gz\\IVo8xRDR.gz",

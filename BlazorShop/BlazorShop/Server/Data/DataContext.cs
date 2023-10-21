@@ -12,6 +12,9 @@ namespace BlazorShop.Server.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<CartItem>()
+                .HasKey(ci => new { ci.UserId, ci.ProductId, ci.ProductTypeId });
+
             modelBuilder.Entity<ProductVariant>()
                 .HasKey(p => new { p.ProductId, p.ProductTypeId });
 
@@ -157,21 +160,21 @@ namespace BlazorShop.Server.Data
                 {
                     ProductId = 1,
                     ProductTypeId = 2,
-                    Price = 9.99m,
-                    OriginalPrice = 19.99m
+                    Price = 69.99m,
+                    OriginalPrice = 79.99m
                 },
                 new ProductVariant
                 {
                     ProductId = 1,
                     ProductTypeId = 3,
-                    Price = 7.99m
+                    Price = 79.99m
                 },
                 new ProductVariant
                 {
                     ProductId = 1,
                     ProductTypeId = 4,
-                    Price = 19.99m,
-                    OriginalPrice = 29.99m
+                    Price = 59.99m,
+                    OriginalPrice = 79.99m
                 },
                 new ProductVariant
                 {
@@ -184,25 +187,25 @@ namespace BlazorShop.Server.Data
                 {
                     ProductId = 3,
                     ProductTypeId = 2,
-                    Price = 6.99m
+                    Price = 59.99m
                 },
                 new ProductVariant
                 {
                     ProductId = 4,
                     ProductTypeId = 2,
-                    Price = 3.99m
+                    Price = 59.99m
                 },
                 new ProductVariant
                 {
                     ProductId = 4,
                     ProductTypeId = 3,
-                    Price = 9.99m
+                    Price = 59.99m
                 },
                 new ProductVariant
                 {
                     ProductId = 4,
                     ProductTypeId = 4,
-                    Price = 19.99m
+                    Price = 59.99m
                 },
                 new ProductVariant
                 {
@@ -214,7 +217,7 @@ namespace BlazorShop.Server.Data
                 {
                     ProductId = 6,
                     ProductTypeId = 5,
-                    Price = 2.99m
+                    Price = 12.99m
                 },
                 new ProductVariant
                 {
@@ -227,19 +230,19 @@ namespace BlazorShop.Server.Data
                 {
                     ProductId = 7,
                     ProductTypeId = 7,
-                    Price = 69.99m
+                    Price = 29.99m
                 },
                 new ProductVariant
                 {
                     ProductId = 7,
                     ProductTypeId = 8,
-                    Price = 49.99m,
-                    OriginalPrice = 59.99m
+                    Price = 19.99m,
+                    OriginalPrice = 29.99m
                 },
                 new ProductVariant
                 {
                     ProductId = 8,
-                    ProductTypeId = 9,
+                    ProductTypeId = 6,
                     Price = 9.99m,
                     OriginalPrice = 24.99m,
                 },
@@ -252,30 +255,32 @@ namespace BlazorShop.Server.Data
                 new ProductVariant
                 {
                     ProductId = 10,
-                    ProductTypeId = 11,
+                    ProductTypeId = 12,
                     Price = 15.99m,
-                    OriginalPrice = 29m
+                    OriginalPrice = 25.99m
                 },
                 new ProductVariant
                 {
                     ProductId = 11,
-                    ProductTypeId = 12,
+                    ProductTypeId = 11,
                     Price = 9.99m,
-                    OriginalPrice = 39m
+                    OriginalPrice = 15.99m
                 },
                 new ProductVariant
                 {
                     ProductId = 12,
                     ProductTypeId = 12,
                     Price = 9.99m,
-                    OriginalPrice = 39m
+                    OriginalPrice = 29.99m
                 }
             );
         }
 
-        public DbSet<Product> Products { get; set;}
-        public DbSet<Category> Categories { get; set;}
-        public DbSet<ProductType> ProductTypes { get; set;}
-        public DbSet<ProductVariant> ProductVariants { get; set;}
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<ProductType> ProductTypes { get; set; }
+        public DbSet<ProductVariant> ProductVariants { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<CartItem> CartItems { get; set; }
     }
 }

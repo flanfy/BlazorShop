@@ -1,12 +1,14 @@
 global using BlazorShop.Shared;
-global using BlazorShop.Client.Shared;
 global using Microsoft.EntityFrameworkCore;
 global using BlazorShop.Server.Data;
 global using BlazorShop.Server.Services.ProductService;
 global using BlazorShop.Server.Services.CategoryService;
 global using BlazorShop.Server.Services.CartService;
+global using BlazorShop.Server.Services.AuthService;
 using Microsoft.AspNetCore.Connections;
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,7 +26,20 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IProductService, ProductService>(); //when IPS injected, use PS as implementation, can change class if want to make changes
 builder.Services.AddScoped<ICategoryService, CategoryService>();
-builder.Services.AddScoped<BlazorShop.Server.Services.CartService.ICartService, CartService>();
+builder.Services.AddScoped<ICartService, CartService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuerSigningKey = true,
+            IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(builder.Configuration.GetSection("Appsettings:Token").Value)),
+            ValidateIssuer = false,
+            ValidateAudience = false
+        };
+    });
+builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 
@@ -43,13 +58,15 @@ else
 }
 
 app.UseSwagger();
-
 app.UseHttpsRedirection();
 
 app.UseBlazorFrameworkFiles();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseAuthentication();
+app.UseAuthorization();
 
 
 app.MapRazorPages();

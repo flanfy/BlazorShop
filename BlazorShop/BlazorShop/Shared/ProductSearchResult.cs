@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace BlazorShop.Shared
 {
     /// <summary>
-    /// DTO for search results, only returns specific Product data
+    /// DTO for search results
     /// </summary>
     public class ProductSearchResult
     {
