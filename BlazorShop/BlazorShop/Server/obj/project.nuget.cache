@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SzvlS4RIZ1RjH7J9skA4KLi5MX0JVs6x0z+qxnrLRHNyzWmmtq8IBfxwS4ZTzMWjvPUqlLBs7JvzWzizQE42ug==",
+  "dgSpecHash": "jSF/aldMT3fQ91DCQXQ3EV7SN0IMAUJNwLxkBJ3ETeFZqFM+APjz//+bWvlTJkRwmREPclDEDGEH0o0shModaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
+  "projectFilePath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\blazorShop\\server\\BlazorShop.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phillip\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
