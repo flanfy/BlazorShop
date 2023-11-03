@@ -4165,11 +4165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\blazorShop\\server\\BlazorShop.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
       "projectName": "BlazorShop.Server",
-      "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\blazorShop\\server\\BlazorShop.Server.csproj",
+      "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
       "packagesPath": "C:\\Users\\Phillip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\blazorShop\\server\\obj\\",
+      "outputPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4191,11 +4191,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\blazorShop\\Client\\BlazorShop.Client.csproj": {
-              "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\blazorShop\\Client\\BlazorShop.Client.csproj"
+            "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj": {
+              "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj"
             },
-            "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\blazorShop\\Shared\\BlazorShop.Shared.csproj": {
-              "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\blazorShop\\Shared\\BlazorShop.Shared.csproj"
+            "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
+              "projectPath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj"
             }
           }
         }

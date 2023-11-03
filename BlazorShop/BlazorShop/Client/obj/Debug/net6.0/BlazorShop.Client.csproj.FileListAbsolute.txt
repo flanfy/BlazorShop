@@ -1650,6 +1650,10 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\KcemNSkq.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\po0m2bku.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\2Z3V4sT+.gz
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\CS6dVXJi.gz
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\Vij3kC+h.gz
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\8YNfwoOD.gz
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\3P2J5msw.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\build-gz\McoigJOH.gz
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\blazor.boot.json
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\staticwebassets\msbuild.BlazorShop.Client.Microsoft.AspNetCore.StaticWebAssets.props
@@ -1676,7 +1680,4 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\refint\BlazorShop.Client.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\BlazorShop.Client.pdb
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\ref\BlazorShop.Client.dll
-C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\blazorShop\Client\obj\Debug\net6.0\build-gz\dYRSdNjD.gz
-C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\blazorShop\Client\obj\Debug\net6.0\build-gz\dFkWhx5x.gz
-C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\blazorShop\Client\obj\Debug\net6.0\build-gz\pmc7gRBX.gz
-C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\blazorShop\Client\obj\Debug\net6.0\build-gz\ib52sLWF.gz
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Pages\Orders.razor.rz.scp.css

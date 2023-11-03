@@ -5,6 +5,7 @@ global using BlazorShop.Server.Services.ProductService;
 global using BlazorShop.Server.Services.CategoryService;
 global using BlazorShop.Server.Services.CartService;
 global using BlazorShop.Server.Services.AuthService;
+global using BlazorShop.Server.Services.OrderService;
 using Microsoft.AspNetCore.Connections;
 using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -28,6 +29,7 @@ builder.Services.AddScoped<IProductService, ProductService>(); //when IPS inject
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<ICartService, CartService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
