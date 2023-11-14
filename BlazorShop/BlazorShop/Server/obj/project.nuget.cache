@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SzvlS4RIZ1RjH7J9skA4KLi5MX0JVs6x0z+qxnrLRHNyzWmmtq8IBfxwS4ZTzMWjvPUqlLBs7JvzWzizQE42ug==",
+  "dgSpecHash": "b20HkbISe+1wmQyhW1pAt7/WRv/whsQtecmvE5jxQWVmEBNjsPt8jHltpUT+N/GGqOv9WdUGzIWiZpCXj+UJow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Phillip\\Documents\\projects\\blazor\\BlazorShop\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
   "expectedPackageFiles": [
@@ -64,6 +64,8 @@
     "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Phillip\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Phillip\\.nuget\\packages\\stripe.net\\43.1.0\\stripe.net.43.1.0.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Phillip\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

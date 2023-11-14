@@ -1664,6 +1664,7 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Pages\Cart.razor.rz.scp.css
+C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Pages\Orders.razor.rz.scp.css
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Shared\FeaturedProducts.razor.rz.scp.css
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
@@ -1680,4 +1681,3 @@ C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Clie
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\refint\BlazorShop.Client.dll
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\BlazorShop.Client.pdb
 C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\ref\BlazorShop.Client.dll
-C:\Users\Phillip\Documents\projects\blazor\BlazorShop\BlazorShop\BlazorShop\Client\obj\Debug\net6.0\scopedcss\Pages\Orders.razor.rz.scp.css
